@@ -1,7 +1,7 @@
 BGmisc
 =======
 
-BGmisc is a package that...
+BGmisc is a package that I'll never do anything with and may delete.  
 
 ## Installation
 
