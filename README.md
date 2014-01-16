@@ -5,7 +5,7 @@ BGmisc is a package that I'll never do anything with and may delete.
 
 ## Installation
 
-To download the development version of BGmisc]:
+To download the development version of BGmisc:
 
 download the [zip ball]() or [tar ball](), decompress and run `R CMD INSTALL` on it, or use the **devtools** package to install the development version:
 
