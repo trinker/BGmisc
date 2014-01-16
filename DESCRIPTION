@@ -1,0 +1,10 @@
+Package: BGmisc
+Type: Package
+Title: Some cool things
+Version: 1.0
+Date: 2014-01-16
+Author: Me
+Maintainer: Me <me@there.net>
+Description: You'll be amazed
+License: GPL-2
+LazyData: TRUE
